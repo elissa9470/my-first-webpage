@@ -1,0 +1,43 @@
+body {
+    background-color: #ff6666;
+     max-width: 700px;
+     margin-left: auto;
+     margin-right: auto;
+     padding: 7px;
+}
+
+h1 {
+     color: lightblue;
+     text-align: center;
+font-size: 36px;
+}
+
+p {
+     font-family: gigi;
+     font-size: 20px;
+     text-align: center;
+}
+
+img {
+     max-width: 100%;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
